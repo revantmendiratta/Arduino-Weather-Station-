@@ -13,7 +13,7 @@ This Arduino Weather Station project showcases how to create a basic weather mon
 - **Potentiometer**: For adjusting the LCD contrast (if necessary).
 
 ## Features
-- Real-time display of temperature (in Celsius) and humidity (in percentage).
+- Real-time display of temperature (in Fahrenheit) and humidity (in percentage).
 - Real-time clock functionality displaying hours and minutes.
 - Simple and intuitive user interface using an LCD screen.
 - Easy-to-follow wiring and coding instructions.
